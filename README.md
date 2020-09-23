@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true" alt="dshemin" />
 
 <hr />
-<p align="center>
+<p align="center">
   <i>You can contact me</i>
   <p align="center">
     <a href="https://linkedin.com/in/dmitry-shemin-1bb0b0149" target="blank">
@@ -33,5 +33,11 @@
     <a href="https://www.codewars.com/users/dshemin" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="dshemin" height="16" width="16" />
     </a>
-  </p
+    <a href="https://t.me/dshemin" target="blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="dshemin" height="16" width="16" />
+    </a>
+    <a href="mailto:shemindmitry@gmail.com">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="shemindmitry@gmail.com" height="16" width="16" />
+    </a>
+  </p>
 </p>
