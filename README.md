@@ -2,7 +2,7 @@
 ### Fan of programming and IPSC
 
 - I'm currently working on [SolusIO](https://www.solus.io/) project. I'm worked on backups and virtual machines migration functionality.
-- I really like to develop tools and instruments for over develoers, setup CI/CD, and automate all what can be automated.
+- I really like to develop tools and instruments for over developers, setup CI/CD, and automate all what can be automated.
 - The programming languages I use:
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="golang" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="22" height="22"/>
