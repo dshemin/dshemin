@@ -1,10 +1,13 @@
 ## Hi 👋, I'm Dmitry Shemin
 ### Fan of programming and IPSC
 
-- I'm currently working on [SolusIO](https://www.solus.io/) project. I'm worked on backups and virtual machines migration functionality.
+- I'm currently working in company "МойОфис".
 - I really like to develop tools and instruments for over developers, setup CI/CD, and automate all what can be automated.
 - The programming languages I use:
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="golang" width="22" height="22"/>
+  &nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" style="color: white" width="22" height="22">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="golang" width="22" height="22"/>
+  </picture>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="22" height="22"/>
 - I'm intersting in next programmin languages:
