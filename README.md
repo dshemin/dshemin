@@ -24,7 +24,7 @@
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="redis" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="ansible" width="22" height="22"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&count_private=true" alt="dshemin" />
+<img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&count_private=true&theme=dark" alt="dshemin" />
 
 <hr />
 <p align="center">
