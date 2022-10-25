@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Dmitry Shemin
 ### Fan of programming and IPSC
 
-- I'm currently working in company "МойОфис".
+- I'm currently working in company <a href="https://myoffice.ru/" target="blank">"МойОфис"</a>.
 - I really like to develop tools and instruments for over developers, setup CI/CD, and automate all what can be automated.
 - The programming languages I use:
   &nbsp;<picture>
