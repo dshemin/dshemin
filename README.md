@@ -25,6 +25,7 @@
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="ansible" width="22" height="22"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="dshemin" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshemin&theme=dark&layout=compact" alt="dshemin top languages"/>
 
 <hr />
 <p align="center">
