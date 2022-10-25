@@ -4,14 +4,11 @@
 - I'm currently working in company <a href="https://myoffice.ru/" target="blank">"МойОфис"</a>.
 - I really like to develop tools and instruments for over developers, setup CI/CD, and automate all what can be automated.
 - The programming languages I use:
-  &nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" style="fill: white; color: white" alt="golang" width="22" height="22"/>
-  </picture>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="22" height="22"/>
-- I'm intersting in next programmin languages:
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rust.svg" alt="rust" width="22" height="22"/>
+  - Golang
+  - TypeScript
+  - PHP
+  - Lua
+  - Rust
 - I have expirenece with:
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="kubernetes" width="22" height="22"/>
