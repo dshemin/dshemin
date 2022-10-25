@@ -5,14 +5,13 @@
 - I really like to develop tools and instruments for over developers, setup CI/CD, and automate all what can be automated.
 - The programming languages I use:
   &nbsp;<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" style="fill: white" width="22" height="22">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" style="fill: white" alt="golang" width="22" height="22"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" style="fill: white; color: white" alt="golang" width="22" height="22"/>
   </picture>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="22" height="22"/>
 - I'm intersting in next programmin languages:
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rust.svg" alt="rust" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" width="22" height="22"/>
 - I have expirenece with:
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="kubernetes" width="22" height="22"/>
@@ -25,7 +24,7 @@
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="redis" width="22" height="22"/>
   &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="ansible" width="22" height="22"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true" alt="dshemin" />
+<img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&hide_title=true" alt="dshemin" />
 
 <hr />
 <p align="center">
