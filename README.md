@@ -10,16 +10,16 @@
   - Lua
   - Rust
 - I have expirenece with:
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="kubernetes" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/helm.svg" alt="helm" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rabbitmq.svg" alt="rabbitmq" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachekafka.svg" alt="kafka" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="redis" width="22" height="22"/>
-  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="ansible" width="22" height="22"/>
+  - Docker
+  - Kubernetes
+  - Helm
+  - RabbitMQ
+  - Kafka
+  - PostgeSQL
+  - MongoDB
+  - Redis
+  - Ansible
+  - Terraform
 
 <img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="dshemin" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshemin&theme=dark&layout=compact" alt="dshemin top languages"/>
