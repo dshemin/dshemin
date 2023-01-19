@@ -19,15 +19,6 @@ Working with:
 - Docker, Kubernetes, Helm
 - Gitlab CI/CD, Ansible, Terraform, Pulumi
 
-## Stats
-
-<div align="center">
-  <div style="display: flex; justify-content: space-around">
-    <img src="https://github-readme-stats.vercel.app/api?username=dshemin&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="dshemin" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshemin&theme=dark&layout=compact" alt="dshemin top languages"/>
-  </div>
-</div>
-
 <hr />
 <p align="center">
   <i>You can contact me</i>
