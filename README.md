@@ -12,12 +12,12 @@ Working with:
 
 ## Skills
 
-- PHP, Golang, JavaScript/TypeScript, Rust, Lua
-- Laravel, Symfony, React
+- PHP, Golang, JavaScript/TypeScript, Rust, Lua, Python
+- Laravel, Symfony, React, Vue
 - PostgreSQL, MongoDB, Redis
 - RabbitMQ, Kafka
 - Docker, Kubernetes, Helm
-- Gitlab CI/CD, Ansible, Terraform, Pulumi
+- Gitlab CI/CD, Ansible, Terraform
 
 <hr />
 <p align="center">
