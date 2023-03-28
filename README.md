@@ -19,6 +19,11 @@ Working with:
 - Docker, Kubernetes, Helm
 - Gitlab CI/CD, Ansible, Terraform
 
+## Some stats
+
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dshemin
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dshemin
+
 <hr />
 <p align="center">
   <i>You can contact me</i>
