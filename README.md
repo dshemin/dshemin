@@ -21,10 +21,8 @@ Working with:
 
 ## Some stats
 
-<center>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dshemin)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dshemin)
-</center>
 
 <hr />
 <p align="center">
