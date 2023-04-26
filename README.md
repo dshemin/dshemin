@@ -10,6 +10,10 @@ Working with:
 - CalDav
 - <a href="https://www.rfc-editor.org/rfc/rfc5545">ICS</a>
 
+## Take part
+
+<a href="https://solvery.io/ru/mentor/dshemin" target="blank">Mentor at Solvery.IO</a>
+
 ## Skills
 
 - PHP, Golang, JavaScript/TypeScript, Rust, Lua, Python
