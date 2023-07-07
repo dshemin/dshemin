@@ -7,7 +7,7 @@ Working with:
 - Golang
 - MongoDB
 - ArangoDB
-- GRPC
+- gRPC
 - Bazel
 - CalDav
 - <a href="https://www.rfc-editor.org/rfc/rfc5545">ICS</a>
