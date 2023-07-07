@@ -14,8 +14,8 @@ Working with:
 
 ## Take part
 
-<a href="https://solvery.io/ru/mentor/dshemin" target="blank">Mentor at Solvery.IO</a>
-<a href="https://otus.ru/lessons/golang-professional/" target="blank">Mentor at OTUS on "Golang Developer. Professional" course</a>
+- <a href="https://solvery.io/ru/mentor/dshemin" target="blank">Mentor at Solvery.IO</a>
+- <a href="https://otus.ru/lessons/golang-professional/" target="blank">Mentor at OTUS on "Golang Developer. Professional" course</a>
 
 ## Skills
 
