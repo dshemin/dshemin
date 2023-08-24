@@ -2,7 +2,7 @@
 
 ## Current job
 
-Software develope at <a href="https://myoffice.ru/" target="blank">"МойОфис"</a>. I'm working on <a href="https://mailion.ru/">Mailion</a> project.
+TeamLead at <a href="https://myoffice.ru/" target="blank">"МойОфис"</a>. I'm working on <a href="https://mailion.ru/">Mailion</a> project.
 Working with:
 - Golang
 - MongoDB
