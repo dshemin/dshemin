@@ -6,7 +6,6 @@ TeamLead at <a href="https://myoffice.ru/" target="blank">"МойОфис"</a>. 
 Working with:
 - Golang
 - MongoDB
-- ArangoDB
 - gRPC
 - Bazel
 - CalDav
