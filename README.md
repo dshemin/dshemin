@@ -2,12 +2,17 @@
 
 ## Current job
 
-Senior Developer at <a href="https://hyperus.ru/" target="blank">"Hyperus"</a>.
+Senior Developer at <a href="https://hyperus.ru/" target="blank">"Hyperus"</a> in Virtualization team.
+Use:
+- Golang, Python
+- echo, pytest
+- PostgreSQL, RabbitMQ
 
 ## Take part
 
 - <a href="https://solvery.io/ru/mentor/dshemin" target="blank">Mentor at Solvery.IO</a>
-- <a href="https://otus.ru/lessons/golang-professional/" target="blank">Mentor at OTUS on "Golang Developer. Professional" course</a>
+- <a href="https://h.careers/">Mentor at Эйч</a>
+- <a href="https://otus.ru/lessons/golang-professional/" target="blank">Mentor at OTUS on "Golang Developer. Professional", "PHP Developer. Professional", and "Framework Laravel" course</a>
 
 ## Skills
 
