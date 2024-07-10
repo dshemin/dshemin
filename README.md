@@ -5,8 +5,9 @@
 Senior Developer at <a href="https://hyperus.ru/" target="blank">"Hyperus"</a> in Virtualization team.
 Use:
 - Golang, Python
-- echo, pytest
+- <a href="https://echo.labstack.com/">echo</a>, pytest
 - PostgreSQL, RabbitMQ
+- OpenStack
 
 ## Take part
 
