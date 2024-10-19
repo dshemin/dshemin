@@ -22,7 +22,7 @@ Use:
 - PostgreSQL, MongoDB, Redis
 - RabbitMQ, Kafka
 - Docker, Kubernetes, Helm
-- Gitlab CI/CD, Ansible, Terraform
+- Gitlab CI/CD, Ansible, Terraform, Pulumi
 
 ## Some stats
 
