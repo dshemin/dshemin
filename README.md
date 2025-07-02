@@ -2,12 +2,7 @@
 
 ## Current job
 
-Senior Developer at <a href="https://hyperus.ru/" target="blank">"Hyperus"</a> in Virtualization team.
-Use:
-- Golang, Python, WASM
-- <a href="https://echo.labstack.com/">echo</a>, pytest
-- PostgreSQL, RabbitMQ, Nats
-- OpenStack
+Senior Developer at <a href="https://cloud.ru/" target="blank">"Cloud.ru"</a> in SDS team.
 
 ## Take part
 
